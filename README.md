@@ -1,0 +1,1 @@
+This program first negotiates the Diffie Hellman key exchange using java’s BigInteger class for the keys. It then allows for messages to be sent between the client and server, showing both the decrypted messages and also the encrypted data that a potential attacker would see.  
